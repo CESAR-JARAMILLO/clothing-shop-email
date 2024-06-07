@@ -1,0 +1,322 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .nav-section {
+        border-top: 1px solid #e5e5e5;
+      }
+
+      .nav-item {
+        display: inline;
+        text-decoration: none;
+        font-size: 18px;
+        color: #535353;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      }
+
+      .nav-item:hover {
+        color: #000;
+      }
+
+      .centered-image img {
+        width: 50% !important;
+        margin: 0 auto;
+        display: block;
+      }
+
+      .download-app {
+        color: #000;
+        fontsize: 15px;
+      }
+
+      .download-app:hover {
+        color: #000;
+      }
+
+      .disclaimer {
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      }
+
+      .unsubscribe {
+        color: #000;
+        fontsize: 11px;
+      }
+
+      .unsubscribe:hover {
+        color: #000;
+      }
+
+      @media only screen and (max-width: 475px) {
+        .nav-item {
+          font-size: 14px;
+        }
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f2f2f2">
+    <mj-section background-color="#fff" padding='0'>
+      <mj-column>
+        <mj-image href="https://www.saksfifthavenue.com/?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/header-logo.png" alt="saks fifth avenue" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="nav-section" background-color="#fff" padding="15px 5px">
+      <mj-group>
+        <mj-column width="40%">
+          <mj-text css-class="nav-item" align="center">
+            <a class="nav-item" href="https://www.saksfifthavenue.com/c/women-s-apparel?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_TEM1">
+              WOMEN'S APPAREL
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-text css-class="nav-item" align="center">
+            <a class="nav-item" href="https://www.saksfifthavenue.com/designers?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_TEM1">
+              DESIGNERS
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="16%">
+          <mj-text css-class="nav-item" align="center">
+            <a class="nav-item" href="https://www.saksfifthavenue.com/c/shoes?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_TEM1">
+              SHOES
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="12%">
+          <mj-text css-class="nav-item" align="center">
+            <a class="nav-item" href="https://www.saksfifthavenue.com/c/sale-2/sale?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_TEM1">
+              SALE
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Hero Coupon -->
+    <mj-section background-color="#fff" padding='0'>
+      <mj-column>
+        <mj-image href="https://www.saksfifthavenue.com/?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/hero-img.jpeg" padding="0" alt="coupon" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding='4px 0'>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <!-- Shop by Category -->
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/c/women-s-apparel?pmid=25254400&srule=featured_newest&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/clothing.png" padding="0" alt="clothing" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/c/women-s-apparel/dresses?pmid=25254400&srule=featured_newest&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/dresses.png" padding="0" alt="clothing" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/c/women-s-apparel/tops?pmid=25254400&srule=featured_newest&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/tops.png" padding="0" alt="clothing" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/c/women-s-apparel/jeans?pmid=25254400&srule=featured_newest&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/jeans.png" padding="0" alt="clothing" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/c/women-s-apparel/pants?pmid=25254400&srule=featured_newest&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP65244" src="http://127.0.0.1:5502/images/pants.png" padding="0" alt="pants" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/c/women-s-apparel/pants/sweatpants?pmid=25254400&srule=featured_newest&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/loungewear.png" padding="0" alt="lounge wear" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column width="100%" css-class="single-button">
+          <mj-image css-class="centered-image" href="https://www.saksfifthavenue.com/c/women-s-apparel?pmid=25254400&email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524" src="http://127.0.0.1:5502/images/shopall.png" padding="0" alt="shop all" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding='4px 0'>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <!-- Top Styles Picked For You -->
+    <mj-section background-color="#fff" padding='0'>
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5502/images/styles-title.jpeg" alt="Top Styles Picked For You" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/alice-olivia-meeko-cotton-mini-shirtdress-0400020921911.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-1.jpeg" alt="dress" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/zimmermann-floral-linen-belted-minidress-0400020675747.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-2.jpeg" alt="dress" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/alice-olivia-pania-two-tone-floral-column-dress-0400020921974.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-3.jpeg" alt="dress" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/alice-olivia-tanika-floral-belted-shirtdress-0400020838694.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-4.jpeg" alt="dress" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/alice-olivia-clyde-embellished-rose-shift-dress-0400020838886.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-5.jpeg" alt="dress" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/stellae-dux-drawstring-cotton-blend-maxi-skirt-0400020741042.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-6.jpeg" alt="dress" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/cinq-224--sept-agnes-a-line-midi-dress-0400021122953.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-7.jpeg" alt="dress" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/alice-olivia-miranda-denim-tie-waist-minidress-0400020838950.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-8.jpeg" alt="dress" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.saksfifthavenue.com/product/as-it-may-terry-tiered-gown-0400020383902.html?rm=t&vg=26ba5c08-268d-4f66-e3d5-0263fbe80227&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524_PR01&email=343993427&rr_u=343993427" src="http://127.0.0.1:5502/images/dress-9.jpeg" alt="dress" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Sign Up For Text Image -->
+    <mj-section background-color="#fff" padding='0'>
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5502/images/signup-img.jpeg" alt="sign up for texts" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding='6px 0'>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='40px 0 40px 0'>
+      <mj-column>
+        <mj-text align="center" padding="0" padding-bottom="30px" font-size="14px" font-weight="bold">
+          FIND A STORE NEAR YOU
+        </mj-text>
+        <mj-text align="center" padding="0" font-size="14px">
+          1 877.551.7257
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding='4px 0'>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <!-- Top Footer -->
+    <mj-section background-color="#fff" padding='40px 0 40px 0'>
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5502/images/learn-more.jpeg" alt="learn more" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='0'>
+      <mj-group>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.instagram.com/saks" src="http://127.0.0.1:5502/images/instagram.jpeg" alt="instagram" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.tiktok.com/@saks" src="http://127.0.0.1:5502/images/tiktok.jpeg" alt="tiktok" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.facebook.com/saks" src="http://127.0.0.1:5502/images/facebook.jpeg" alt="facebook" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.threads.net/@saks" src="http://127.0.0.1:5502/images/threads.jpeg" alt="threads" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.linkedin.com/company/saksfifthave" src="http://127.0.0.1:5502/images/linkedin.jpeg" alt="linkedin" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://x.com/saks" src="http://127.0.0.1:5502/images/x.jpeg" alt="x" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.pinterest.com/saks/" src="http://127.0.0.1:5502/images/pinterest.jpeg" alt="pinterest" padding="0" />
+        </mj-column>
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image href="https://www.youtube.com/saks" src="http://127.0.0.1:5502/images/youtube.jpeg" alt="youtube" padding="0" />
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image href="https://www.saksfifthavenue.com/c/content/sms-text-signup" src="http://127.0.0.1:5502/images/texts.jpeg" alt="texts" padding="0" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding='12px 0'>
+      <mj-column>
+        <mj-text align="center" padding="0" font-size="15px">
+          <a class="download-app" href="https://www.saksfifthavenue.com/c/content/saks-app?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524">
+            Download the Saks App
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding='0'>
+      <mj-column>
+        <mj-text css-class="disclaimer" align="left" padding="20px 0 12px 0" font-size="11px">
+          *We will take $50 off every $200 you spend in full-priced merchandise, up to $500 in savings, now through June 10, 2024 at 11:59pm (ET). Enter promotional code JUNEGETSF at checkout. Promotional code is for one-time use only. No adjustments to prior purchases. Offer valid at saks.com only (excludes Saks Fifth Avenue stores, Saks OFF 5TH stores and saksoff5th.com). Not valid on sale items, pre-order items, Beauty & Fragrance purchases, the purchase of gift cards, charitable items or Saks Fifth Avenue employee purchases. Cannot be combined with any other promotions. Some exclusions may apply. See items tagged with red text: "$50 Off Every $200 with Code JUNEGETSF" to identify eligible items.
+        </mj-text>
+        <mj-text css-class="disclaimer" align="left" padding="10px 0" font-size="11px">
+          Promotion may be suspended or terminated at any time. Promotional value is for promotional purposes only, without money or other value given in exchange.
+        </mj-text>
+        <mj-text css-class="disclaimer" align="left" padding="10px 0" font-size="11px">
+          ***By signing up for this program, you agree to receive up to 5 autodialed marketing text messages per week delivered to the phone number provided at opt-in. Text HELP for info. Text STOP to cancel. Consent not required to purchase goods or services. Message and data rates may apply.
+        </mj-text>
+
+        <mj-text css-class="disclaimer" align="center" padding="10px 0" font-size="11px">
+          To ensure you receive our emails in your inbox, add saksfifthavenue@news.saks.com to your address book.
+          Attention: Saks Direct Marketing Saks Fifth Avenue 225 Liberty Street, New York, NY 10281
+        </mj-text>
+
+        <mj-text css-class="disclaimer" align="center" padding="10px 0" font-size="11px">
+          ©2024 Saks Fifth Avenue. All Rights Reserved
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding='12px 0 20px 0'>
+      <mj-column>
+        <mj-text align="center" padding="0" font-size="11px">
+          <a class="unsubscribe" href="https://www.saksfifthavenue.com/c/content/saks-app?email=343993427&emailuser=a38d52007e95de7d49edbecb2fbedd061517d095c40a766f4426d7b5e088c797&site_refer=EML31313PROMSPGP6524">
+            Unsubscribe or change your email preferences
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
